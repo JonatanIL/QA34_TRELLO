@@ -1,0 +1,3 @@
+22:37:31.699  INFO  manage.ApplicationManager - test starts---
+22:37:41.222  INFO  tests.TestBase - start test--->boardDeletion1
+22:38:15.237  INFO  tests.TestBase - ************

@@ -1,0 +1,5 @@
+22:46:57.918  INFO  manage.ApplicationManager - test starts---
+22:47:07.634  INFO  tests.TestBase - start test--->loginPositive
+22:47:18.227  INFO  tests.TestBase - Test login Positivejonataneitan@gmail.com JonatanEitan1986
+22:47:29.741  INFO  tests.TestBase -  logged----
+22:47:35.264  INFO  tests.TestBase - ************
